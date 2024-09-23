@@ -20,6 +20,7 @@ body {
   background-color: var(--dark-color);
   overflow: hidden;
   perspective: 1000px;
+  padding: 200px; 
 }
 
 /* Night background effects */
@@ -75,6 +76,7 @@ body {
 
 .flowers {
   position: relative;
+  right: 150px;
   transform: scale(0.7);
 }
 
